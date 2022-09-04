@@ -2,14 +2,11 @@
 <div align="center">
 ❤️ Programming | 🖤 Gaming | 💙 Anime
 </div>
-
 <img align='right' src='https://64.media.tumblr.com/e1e8233fe28f4b71b0fb980dd16f44e7/7ad6e582a05cd4ce-39/s1280x1920/fe591cc780748d4ad6a5e975bdc2c7f2e96a838a.jpg' width='200"'>
+
 ## About me :
 I am a student, currently pursing undergraduate degree . From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
-<div align="center">
-
-</div>
 
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)** : 
